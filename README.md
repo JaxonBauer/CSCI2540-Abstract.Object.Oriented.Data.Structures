@@ -4,7 +4,7 @@ This is a repository of all java projects I have worked on throughout this cours
 
 ***ALL PROJECTS ARE PURELY MY OWN CODE, AS I DID NOT PULL THIS CODE FROM ANYONE OR ANYWHERE. ANY WORK THAT I COMPLETED WITH A PARTNER EXPLICITLY STATES SO.***
 
-This class taught me how to use the fundamentals of the java language. Throughout this course, we covered abstract data types such as lists, stacks, queues, trees, tables, graphs, and sets. We also used object-oriented programming (such as inheritance, polymorphism, abstract class, interface, Java generics, etc) to implement these various types of abstract data.
+This class taught me how to use the fundamentals of the Java language. Throughout this course, we covered abstract data types such as lists, stacks, queues, trees, tables, graphs, and sets. We also used object-oriented programming (such as inheritance, polymorphism, abstract class, interface, Java generics, etc.) to implement these various types of abstract data.
 
 At the end of the course, I feel confident in my abilities to:
 
