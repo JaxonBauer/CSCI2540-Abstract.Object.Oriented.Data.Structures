@@ -23,3 +23,7 @@ objects to verify that all methods of each class are working properly and storin
 * Uses multiple different constructors to create new accounts of "SavingsAccount" type.
 * Includes a new method called addInterest that shows the new balance of the account after annual interest is applied.
 * overrides parent methods to accomodate the need for other values in this new account type.
+
+***Account Test Class***
+
+A list of all of the tests that I ran through each method of each class.
