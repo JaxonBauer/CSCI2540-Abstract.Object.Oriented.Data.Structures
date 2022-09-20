@@ -1,4 +1,4 @@
-*** ACCOUNT PROJECT ***
+***ACCOUNT PROJECT***
 
 This project implements the use of parent class / subclass relationships, as well as overriding methods. It does not take user input. Instead, we make multiple test
 objects to verify that all methods of each class are working properly and storing necessary values.
