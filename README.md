@@ -1,6 +1,6 @@
 # CSCI 2540 - Abstract Object Oriented Data Structures Projects
 
-* A repository of all java projects I have worked on throughout this course (CSCI2540 - Abstract Object Oriented Data Structures)
+* A repository of all java projects I have worked on throughout this course (CSCI2540 - Abstract Object Oriented Data Structures).
 
 * Includes all school projects that I worked on throughout the semester.
 
