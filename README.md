@@ -10,7 +10,10 @@ This class taught me how to use the fundamentals of the java language. Throughou
 
 At the end of the course, I feel confident in my abilities to:
 
-*Understand the different fundamental methods of data organization.
-*Choose the most appropriate data structures for a given computational problem.
-*Use programming principles to develop effective algorithms.
-*Implement multimodular programs which use class libraries for data structures.
+* Understand the different fundamental methods of data organization.
+
+* Choose the most appropriate data structures for a given computational problem.
+
+* Use programming principles to develop effective algorithms.
+
+* Implement multimodular programs which use class libraries for data structures.
