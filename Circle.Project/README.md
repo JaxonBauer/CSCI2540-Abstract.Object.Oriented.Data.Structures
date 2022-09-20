@@ -18,4 +18,4 @@ This project introduced overloading, as well as using multiple classes within a 
 
 ***ExtendedCircleTest Class***
 
-A list of all of the tests that I ran through for each class.
+A list of all of the tests that I ran through for each method of each class.
