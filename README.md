@@ -15,3 +15,5 @@ At the end of the course, I feel confident in my abilities to:
 * Use programming principles to develop effective algorithms.
 
 * Implement multimodular programs which use class libraries for data structures.
+
+* Create programs using the most fitting algorithmic efficiency.
